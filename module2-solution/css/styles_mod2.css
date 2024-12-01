@@ -25,6 +25,7 @@ h1 {
     padding-left: 20px;
     padding-right: 20px;
     font-size: 125%;
+    text-transform: capitalize;
     
 }
 
@@ -55,6 +56,8 @@ h1 {
     margin-left: 5px;*/
     margin-top: 5px;
     margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
     border: 1px solid black;
     text-transform: lowercase;
     padding-top: 50px;
@@ -67,8 +70,8 @@ h1 {
     position: relative;
     /*float: right;*/
     background-color: #eaeded;
-    /*margin-right: 5px;
-    margin-left: 5px;*/
+    /*margin-right: 0px;
+    margin-left: 0px;*/
     margin: auto;
     margin-top: 5px;
     margin-bottom: 5px;
@@ -97,6 +100,11 @@ h1 {
         position: relative;
         float: left;
         width: 50%;
+    }
+    .col-md-12 {
+        position: relative;
+        float: left;
+        width: 100%;
     }
 }
 /********** Small devices only **********/
