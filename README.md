@@ -8,3 +8,6 @@ https://abhinav5.github.io/coursera-html_css_js_webdev/module2-solution/index.ht
 
 ## Module 3 assignment link
 https://abhinav5.github.io/coursera-html_css_js_webdev/module3-solution/index.html
+
+## Module 4 assignment link
+https://abhinav5.github.io/coursera-html_css_js_webdev/module4-solution/index.html
